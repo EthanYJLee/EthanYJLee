@@ -16,7 +16,7 @@
         </ul>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td><b>Skills</b></td>
       </td>
     </tr>
@@ -26,7 +26,7 @@
           <li>JAVA, dddddd</li>
           </ul>
       </td>
-    </tr>
+    </tr> -->
     
     
   </tbody>
@@ -36,13 +36,12 @@
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
-| 2023.01 | Dr.Oh | Diabetes, Stroke, Dementia Prediction App | R, Flutter, Firestore
-| 2022.12 | Scrap Book | App with functions which allow users to upload photos and create their own photo album | Flutter
-| 2022.12 | R | R | R
-| 2022.11 | Hopint | Website using Spring Boot with previous JSP & MVC project (Boot Camp) | Spring Boot, MySQL
-| 2022.11 | Boot Camp | Hospitality Peer-To-Peer platform which connects Guests and Hosts | JSP, MVC Pattern, MySQL
-| 2022.10 | Noon | Kiosk, App, Customer Management System for Coffee Shop using Window Builder | Java, Swing, MySQL
-||||
+| 2023.01 | Dr.Oh | Diabetes, Stroke, Dementia Prediction App | R, Flutter, Firestore |
+| 2022.12 | Scrap Book | App with functions which allow users to upload photos and create their own photo album | Flutter |
+| 2022.12 | R | R | R |
+| 2022.11 | Hoping | Website using Spring Boot with previous JSP & MVC project (Boot Camp) | Spring Boot, MySQL |
+| 2022.11 | Boot Camp | Hospitality Peer-To-Peer platform which connects Guests and Hosts | JSP, MVC Pattern, MySQL |
+| 2022.10 | Noon | Kiosk, App, Customer Management System for Coffee Shop using Window Builder | Java, Swing, MySQL |
 
 
 
@@ -60,6 +59,12 @@
     <td>
       <b>Bachelor of Hospitality and Tourism Management</b> <br>2014-2021<br />
       Sejong University - Seoul, Korea<br />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Secondary School</b> <br>2010-2012<br />
+      The British School of Beijing - Beijing, China<br />
     </td>
   </tr>
 </table>
