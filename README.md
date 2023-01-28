@@ -68,3 +68,15 @@
     </td>
   </tr>
 </table>
+
+<style>
+  table, th, td {
+    border: 1px solid #bcbcbc;
+  }
+  table {
+    width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
