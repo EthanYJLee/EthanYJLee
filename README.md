@@ -1,15 +1,3 @@
-<style>
-  table, th, td {
-    border: 1px solid #bcbcbc;
-  }
-  table {
-    width: 400px;
-    height: 200px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-
 <h1 align="center">Youngjin Lee</h1>
 <table>
   <tbody>
@@ -56,27 +44,10 @@
 | 2022.10 | Noon | Kiosk, App, Customer Management System for Coffee Shop using Window Builder | Java, Swing, MySQL |
 
 
-
 <h1 align="center">Education</h1>
-<table>
-  <tr>
-    <td>
-      <!-- <i></i><br /> -->
-      <b>Bigdata Analysis & Recommendation System Developer Program</b> 
-      <br>2022-2023<br />
-      TJ Academy - Seoul, Korea<br />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Bachelor of Hospitality and Tourism Management</b> <br>2014-2021<br />
-      Sejong University - Seoul, Korea<br />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Secondary School</b> <br>2010-2012<br />
-      The British School of Beijing - Beijing, China<br />
-    </td>
-  </tr>
-</table>
+
+|| Program | Place | Location |
+|----- | ----- | ----- | ----- |
+| 2022-2023 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
+| 2014-2021 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
+| 2010-2012 | Secondary School | The British School of Beijing | Beijing, China |
