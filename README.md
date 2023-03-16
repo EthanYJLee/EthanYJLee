@@ -11,7 +11,7 @@
       <td>
         <ul>
           <li>lyj72011648@gmail.com</li>
-          <li><a href="https://github.com/EthanYJLee">GitHub</a></li>
+          <!-- <li><a href="https://github.com/EthanYJLee">GitHub</a></li> -->
           <li><a href="https://www.notion.so/Home-9e3211a55b694442acbea0113d3cec57">Notion</a></li>
         </ul>
       </td>
@@ -32,16 +32,22 @@
   </tbody>
 </table>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Team Projects</h1>
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
-| 2023.01 | Dr.Oh | Diabetes, Stroke, Dementia Prediction App | R, Flutter, Firestore |
-| 2022.12 | Scrap Book | App with functions which allow users to upload photos and create their own photo album | Flutter |
-| 2022.12 | R | R | R |
-| 2022.11 | Hoping | Website using Spring Boot with previous JSP & MVC project (Boot Camp) | Spring Boot, MySQL |
+| 2023.01 | 재주껏 | 제주도 외식업 방문객 예측, 관리 어플 | R, Flutter, Firestore |
+| 2023.01 | Dr.Oh | 당뇨병, 뇌졸중, 치매 유병률 예측 어플 | R, Flutter, Firestore |
+| 2022.11 | Hoping | Hospitality Peer-To-Peer platform which connects Guests and Hosts | Spring Boot, MySQL |
 | 2022.11 | Boot Camp | Hospitality Peer-To-Peer platform which connects Guests and Hosts | JSP, MVC Pattern, MySQL |
 | 2022.10 | Noon | Kiosk, App, Customer Management System for Coffee Shop using Window Builder | Java, Swing, MySQL |
+
+<h1 align="center">Personal Works</h1>
+
+|| Title | Description | Skills | 
+|-----| ------------ | ------------- | ------------- |
+| 2022.12 | Scrap Book | App with functions which allow users to upload photos and create their own photo album | Flutter |
+| 2022.12 | R | R | R |
 
 
 <h1 align="center">Education</h1>
