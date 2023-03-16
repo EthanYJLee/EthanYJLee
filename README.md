@@ -3,7 +3,7 @@
   <tbody>
     <tr>
       <td><b>Information</b></td>
-      <td width="50%" rowspan="10">
+      <td width="30%" rowspan="10">
         <img alt="Photo" src="./profile_image.jpg" />
       </td>
     </tr>
