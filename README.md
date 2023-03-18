@@ -15,9 +15,6 @@
         </ul>
       </td>
     </tr>
-   
-    
-    
   </tbody>
 </table>
 
@@ -41,11 +38,11 @@
 
 <h1 align="center">Certifications</h1>
 
-| | Title | Level | Organization |
-| ----- | ----- | ----- | ----- |
-| 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data |
-| 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA |
-| 2021.10 | TOEIC | 885 | ETS |
+| | Title | Level | Organization | Region |
+| ----- | ----- | ----- | ----- | ----- |
+| 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
+| 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA | Republic of Korea |
+| 2021.10 | TOEIC | 885 | ETS | United States of America
 
 <h1 align="center">Education</h1>
 
