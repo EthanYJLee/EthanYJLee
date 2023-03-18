@@ -11,22 +11,11 @@
       <td>
         <ul>
           <li><a href="mailto:lyj72011648@gmail.com" title="E-mail">lyj72011648@gmail.com</li>
-          <!-- <li><a href="https://github.com/EthanYJLee">GitHub</a></li> -->
           <li><a href="https://www.notion.so/Home-9e3211a55b694442acbea0113d3cec57" title="Notion">Notion</a></li>
         </ul>
       </td>
     </tr>
-    <!-- <tr>
-      <td><b>Skills</b></td>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>JAVA, dddddd</li>
-          </ul>
-      </td>
-    </tr> -->
+   
     
     
   </tbody>
@@ -51,7 +40,6 @@
 
 
 <h1 align="center">Certifications</h1>
-
 || Title | Level | Organization |
 |----- | ----- | ----- | ----- |
 | 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data |
