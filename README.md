@@ -19,6 +19,7 @@
 </table>
 
 <h1 align="center">Team Projects</h1>
+<div align="center">
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
@@ -28,11 +29,17 @@
 | 2022.11 | Hoping | 캠핑장 공유 서비스 플랫폼 | JSP, MVC Pattern, MySQL |
 | 2022.10 | Noon | 카페 키오스크, 어플, 고객관리시스템 | Java, Swing, MySQL |
 
+</div>
+
 <h1 align="center">Personal Works</h1>
+
+<div align="center">
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
 | 2022.12 | Scrap Book | 프라이빗 포토 앨범 및 다이어리 작성 어플 | Flutter |
+
+</div>
 
 
 
