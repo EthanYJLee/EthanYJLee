@@ -60,22 +60,22 @@
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12-2012.12 | Secondary School | The British School of Beijing | Beijing, China |
 
-<!-- <div align="center">
+<div>
 <table>
 <tr>
-<td width="50%", align="center">
+<td width="50%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
 </td>
 
-<td width="50%", align="center">
+<td width="50%">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
 </td>
 
 </table>
-</div> -->
-<div align="center">
+</div>
+<!-- <div>
 <table>
 
 
@@ -87,4 +87,4 @@
 
 </table>
 
-</div>
+</div> -->
