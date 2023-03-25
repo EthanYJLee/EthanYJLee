@@ -77,14 +77,14 @@
 </div> -->
 <div align="center">
 <table>
-<tr>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
 
-</tr>
+
 </table>
 
 </div>
