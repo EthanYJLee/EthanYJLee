@@ -56,12 +56,12 @@
 <div align="center">
 <table>
 <tr>
-<td width="60%", align="center">
+<td width="50%", align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
 </td>
 
-<td width="60%", align="center">
+<td width="50%", align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
 </td>
