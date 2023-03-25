@@ -22,18 +22,18 @@
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
-| 2023.01 | 재주껏 | 제주도 외식업 방문객 예측, 관리 어플 | Python, Flutter, Firestore |
+| 2023.01 | Jeju껏 | 제주도 외식업종 매출액 예측 및 관리 어플 | Python, Flutter, Firestore |
 | 2023.01 | Dr.Oh | 당뇨병, 뇌졸중, 치매 유병률 예측 어플 | R, Flutter, Firestore |
-| 2022.11 | Hoping | Hospitality Peer-To-Peer platform which connects Guests and Hosts | Spring Boot, MySQL |
-| 2022.11 | Boot Camp | Hospitality Peer-To-Peer platform which connects Guests and Hosts | JSP, MVC Pattern, MySQL |
-| 2022.10 | Noon | Kiosk, App, Customer Management System for Coffee Shop using Window Builder | Java, Swing, MySQL |
+| 2022.11 | Hoping | 캠핑장 공유 서비스 플랫폼 | Spring Boot, MySQL |
+| 2022.11 | Hoping | 캠핑장 공유 서비스 플랫폼 | JSP, MVC Pattern, MySQL |
+| 2022.10 | Noon | 카페 키오스크, 어플, 고객관리시스템 | Java, Swing, MySQL |
 
 <h1 align="center">Personal Works</h1>
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
-| 2022.12 | Scrap Book | App with functions which allow users to upload photos and create their own photo album | Flutter |
-| 2022.12 | R | R | R |
+| 2022.12 | Scrap Book | 프라이빗 포토 앨범 및 다이어리 작성 어플 | Flutter |
+
 
 
 <h1 align="center">Certifications</h1>
@@ -52,3 +52,19 @@
 | 2014.03-2021.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12-2012.12 | Secondary School | The British School of Beijing | Beijing, China |
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
+</td>
+
+<td width="50%">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
+</td>
+
+</table>
+</div>
