@@ -50,6 +50,7 @@
 | 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
 | 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA | Republic of Korea |
 | 2021.10 | TOEIC | 885 | ETS | United States of America
+| 2016.12 | 정보처리기능사 (Craftsman Information Processing) | | HRD Korea | Republic of Korea |
 
 <h1 align="center">Education</h1>
 
