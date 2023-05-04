@@ -3,7 +3,7 @@
   <tbody>
     <tr>
       <td><b>Information</b></td>
-      <td width="30%" rowspan="10">
+      <td width="20%" rowspan="10">
         <img alt="Photo" src="./profile_image.jpg" />
       </td>
     </tr>
@@ -33,13 +33,13 @@
 
 <h1 align="center">Personal Works</h1>
 
-<div align="center">
+<!-- <div align="center">
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
 | 2022.12 | Scrap Book | 프라이빗 포토 앨범 및 다이어리 작성 어플 | Flutter |
 
-</div>
+</div> -->
 
 
 
