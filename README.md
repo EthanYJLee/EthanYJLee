@@ -23,10 +23,11 @@
 
 || Title | Description | Skills | 
 |-----| ------------ | ------------- | ------------- |
-| 2023.01 | Jeju껏 | 제주도 외식업종 매출액 예측 및 관리 어플 | Python, Flutter, Firestore |
-| 2023.01 | Dr.Oh | 당뇨병, 뇌졸중, 치매 유병률 예측 어플 | R, Flutter, Firestore |
+| 2023.03 | Semosin | 신발 브랜드, 모델 예측 및 거래 앱 | Flutter, Firestore, Python, Flask, MVVM Pattern |
+| 2023.01 | Table Track | 제주도 외식업종 매출액 예측 및 관리 앱 | Flutter, Firestore, Python, Flask |
+| 2023.01 | Dr.Oh | 당뇨병, 뇌졸중, 치매 유병률 예측 앱 | R, Flutter, Firestore, MVVM Pattern |
 | 2022.11 | Hoping | 캠핑장 공유 서비스 플랫폼 | Spring Boot, MySQL |
-| 2022.11 | Hoping | 캠핑장 공유 서비스 플랫폼 | JSP, MVC Pattern, MySQL |
+| 2022.11 | Hoping | 캠핑장 공유 서비스 플랫폼 | JSP&Servlet, MVC Pattern, MySQL |
 | 2022.10 | Noon | 카페 키오스크, 어플, 고객관리시스템 | Java, Swing, MySQL |
 
 </div>
