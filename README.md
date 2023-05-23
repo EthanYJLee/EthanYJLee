@@ -12,7 +12,7 @@
         <ul>
           <li><a href="mailto:lyj72011648@gmail.com" title="E-mail">lyj72011648@gmail.com</li>
           <li><a href="https://www.notion.so/Home-9e3211a55b694442acbea0113d3cec57" title="Notion">Notion</a></li>
-          <li><a href="https://www.ethanyjlee.github.io/app_data_portfolio.pdf" title="Portfolio">크로스플랫폼 앱 + AI 개발 포트폴리오</a></li>
+          <li><a href="https://ethanyjlee.github.io/app_data_portfolio.pdf" title="Portfolio">크로스플랫폼 앱 + AI 개발 포트폴리오</a></li>
         </ul>
       </td>
     </tr>
