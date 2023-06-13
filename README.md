@@ -50,6 +50,7 @@
 | | Title | Level | Organization | Region |
 | ----- | ----- | ----- | ----- | ----- |
 | 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
+| 2022.03 | TESAT (Test of Economic Sense And Thinking) | Level 2 | The Korea Economic Daily | Republic of Korea |
 | 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA | Republic of Korea |
 | 2021.10 | TOEIC | 885 | ETS | United States of America
 | 2016.12 | 정보처리기능사 (Craftsman Information Processing) | | HRD Korea | Republic of Korea |
@@ -59,7 +60,7 @@
 || Program | Place | Location |
 |----- | ---------- | ----- | ----- |
 | 2022.09~2023.03 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
-| 2014.03-2021.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
+| 2014.03-2022.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12-2012.12 | Secondary School | The British School of Beijing | Beijing, China |
 
