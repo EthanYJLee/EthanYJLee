@@ -64,50 +64,31 @@
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12-2012.12 | Secondary School | The British School of Beijing | Beijing, China |
 
-<!-- <div>
-<table>
-<tr>
-<td width="50%">
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="EthanYJLee's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
-</td>
+#### Top Repositories
 
-<td width="50%">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
-</td>
+<a href="https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet&theme=buefy" />
+</a>
+<a href="https://github.com/EthanYJLee/HaruHabit_Flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter&theme=buefy" />
+</a>
+<a href="https://github.com/EthanYJLee/SeoulFestival_SwiftUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI&theme=buefy" />
+</a>
+<a href="https://github.com/EthanYJLee/Dr_Oh_Flutter_R">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R&theme=buefy" />
+</a>
+<a href="https://github.com/EthanYJLee/Semosin_Flutter_RL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL&theme=buefy" />
+</a>
+<a href="https://github.com/EthanYJLee/Noon_Java_Swing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing&theme=buefy" />
+</a>
+<a href="https://github.com/EthanYJLee/Flutter_BLoC_Movie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Flutter_BLoC_Movie&theme=buefy" />
+</a>
 
-</table>
-</div>
--->
-<details>
-<summary>Stats</summary>
-<div markdown="1">
-
-<div style="text-align: center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
-
-  ![EthanYJLee's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
-
-</div>
-</div>
-</details>
-
-<center>
-  
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet)](https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet)
-
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter)](https://github.com/EthanYJLee/HaruHabit_Flutter)
-
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI)](https://github.com/EthanYJLee/SeoulFestival_SwiftUI)
-
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R)](https://github.com/EthanYJLee/Dr_Oh_Flutter_R)
-
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL)](https://github.com/EthanYJLee/Semosin_Flutter_RL)
-
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing)](https://github.com/EthanYJLee/Noon_Java_Swing)
-
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Jeju_Flutter_Python)](https://github.com/EthanYJLee/Jeju_Flutter_Python)
-
-</center>
