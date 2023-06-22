@@ -108,4 +108,6 @@
 
 [![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing)](https://github.com/EthanYJLee/Noon_Java_Swing)
 
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Jeju_Flutter_Python)](https://github.com/EthanYJLee/Jeju_Flutter_Python)
+
 </center>
