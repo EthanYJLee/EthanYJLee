@@ -12,7 +12,7 @@
         <ul>
           <li><a href="mailto:lyj72011648@gmail.com" title="E-mail">lyj72011648@gmail.com</li>
           <li><a href="https://www.notion.so/Home-9e3211a55b694442acbea0113d3cec57" title="Notion">Notion</a></li>
-          <li><a href="https://ethanyjlee.github.io/app_data_portfolio.pdf" title="Portfolio">크로스플랫폼 앱 + AI 개발 포트폴리오</a></li>
+          <li><a href="https://ethanyjlee.github.io/app_data_portfolio.pdf" title="Portfolio">Portfolio</a></li>
         </ul>
       </td>
     </tr>
@@ -50,7 +50,7 @@
 # Github Stats
 <div align="center">
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="EthanYJLee's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="EthanYJLee's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&hide=jupyter%20notebook&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
@@ -60,25 +60,25 @@
 <div align="center">
 
 <a href="https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/HaruHabit_Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/SeoulFestival_SwiftUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Dr_Oh_Flutter_R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Semosin_Flutter_RL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Noon_Java_Swing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Flutter_BLoC_Movie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Flutter_BLoC_Movie&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Flutter_BLoC_Movie&theme=github_dark" />
 </a>
 
 </div>
@@ -98,8 +98,8 @@
 <h1 align="left">Education</h1>
 
 || Program | Place | Location |
-|----- | ---------- | ----- | ----- |
-| 2022.09~2023.03 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
+|------ | ------- | ----- | ----- |
+| 2022.09-2023.03 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
 | 2014.03-2022.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12-2012.12 | Secondary School | The British School of Beijing | Beijing, China |
