@@ -4,7 +4,7 @@
     <tr>
       <td><b>Information</b></td>
       <td width="20%" rowspan="10">
-        <img alt="Photo" src="./profile_image.jpg" />
+<!--         <img alt="Photo" src="./profile_image.jpg" /> -->
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12-2012.12 | Secondary School | The British School of Beijing | Beijing, China |
 
-<div>
+<!-- <div>
 <table>
 <tr>
 <td width="50%">
@@ -79,18 +79,29 @@
 
 </table>
 </div>
-<!-- <div>
-<table>
+-->
+<details>
+<summary>Stats</summary>
+<div markdown="1">
 
+<div style="text-align: center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&layout=compact&theme=transparent)
+  ![EthanYJLee's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
 
+</div>
+</div>
+</details>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
+<center>
+  
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet)](https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter)](https://github.com/EthanYJLee/HaruHabit_Flutter)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI)](https://github.com/EthanYJLee/SeoulFestival_SwiftUI)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R)](https://github.com/EthanYJLee/Dr_Oh_Flutter_R)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL)](https://github.com/EthanYJLee/Semosin_Flutter_RL)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Jeju_Flutter_Python)](https://github.com/EthanYJLee/Jeju_Flutter_Python)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing)](https://github.com/EthanYJLee/Noon_Java_Swing)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet)](https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet)
-
-
-</table>
-
-</div> -->
+</center>
