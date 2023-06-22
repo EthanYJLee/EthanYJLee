@@ -3,7 +3,7 @@
   <tbody>
     <tr>
       <td><b>Information</b></td>
-      <td width="20%" rowspan="10">
+<!--       <td width="20%" rowspan="10"> -->
 <!--         <img alt="Photo" src="./profile_image.jpg" /> -->
       </td>
     </tr>
@@ -55,7 +55,7 @@
 
 </div>
 
-# Top Repositories
+# Project Repositories
 
 <div align="center">
 
