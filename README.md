@@ -101,7 +101,7 @@
 <h1 align="left">Education</h1>
 
 | | Program | Place | Location |
-| ------ | ------- | ----- | ----- |
+| -------- | ------ | ---- | ---- |
 | 2022.09-2023.03 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
 | 2014.03-2022.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
 | 2013.03-2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
