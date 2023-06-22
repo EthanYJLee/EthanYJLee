@@ -88,7 +88,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=github-readme-stats)](https://github.com/EthanYJLee/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet)](https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet)
 
 
 </table>
