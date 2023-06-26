@@ -1,5 +1,6 @@
 <h1 align="center">Youngjin Lee</h1>
-<table>
+
+<table align="center">
   <tbody>
     <tr>
       <td><b>Information</b></td>
@@ -20,7 +21,6 @@
 </table>
             
 <div align=center><h1>TECH STACKS</h1></div>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/dart-47A248?style=for-the-badge&logo=dart&logoColor=white">
@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   <img src="https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white">
   <br>
-  
 </div>
 
 <!--
