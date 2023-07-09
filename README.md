@@ -101,6 +101,9 @@
 <a href="https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet&theme=github_dark" />
 </a>
+<a href="https://github.com/EthanYJLee/Jeju_Flutter_Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Jeju_Flutter_Python&theme=github_dark" />
+</a>
 <a href="https://github.com/EthanYJLee/HaruHabit_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter&theme=github_dark" />
 </a>
