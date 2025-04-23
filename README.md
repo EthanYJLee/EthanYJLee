@@ -134,6 +134,7 @@
 
 | | Title | Level | Organization | Region |
 | ----- | ----- | ----- | ----- | ----- |
+| 2025.04 | SQL개발자 (SQLD: Structured Query Language Developer) | | K-Data | Republic of Korea |
 | 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
 | 2022.03 | TESAT (Test of Economic Sense And Thinking) | 2 | The Korea Economic Daily | Republic of Korea |
 | 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA | Republic of Korea |
