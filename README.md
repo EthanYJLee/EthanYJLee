@@ -135,12 +135,12 @@
 
 | | Title | Level | Organization | Region |
 | ----- | ----- | ----- | ----- | ----- |
+| 2025.08 | TOEIC | 890 | ETS | United States of America
 | 2025.06 | 정보처리기사 (Engineer Information Processing) | | Human Resources Development Service of Korea | Republic of Korea |
 | 2025.04 | SQL개발자 (SQLD: Structured Query Language Developer) | | K-Data | Republic of Korea |
 | 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
 | 2022.03 | TESAT (Test of Economic Sense And Thinking) | 2 | The Korea Economic Daily | Republic of Korea |
 | 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA | Republic of Korea |
-| 2021.10 | TOEIC | 885 | ETS | United States of America
 | 2016.12 | 정보처리기능사 (Craftsman Information Processing) | | HRD Korea | Republic of Korea |
 
 <h1 align="left">Education</h1>
