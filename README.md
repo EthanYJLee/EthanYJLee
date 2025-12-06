@@ -100,31 +100,31 @@
 <div align="center">
 
 <a href="https://github.com/EthanYJLee/Hoping_Java_JSP_Servlet">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=EthanYJLee&repo=Hoping_Java_JSP_Servlet&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Jeju_Flutter_Python">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EthanYJLee&repo=Jeju_Flutter_Python&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=EthanYJLee&repo=Jeju_Flutter_Python&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/HaruHabit_Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=HaruHabit_Flutter&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/SeoulFestival_SwiftUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=SeoulFestival_SwiftUI&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Dr_Oh_Flutter_R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=Dr_Oh_Flutter_R&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Semosin_Flutter_RL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=Semosin_Flutter_RL&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Noon_Java_Swing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=Noon_Java_Swing&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Flutter_BLoC_Movie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Flutter_BLoC_Movie&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=Flutter_BLoC_Movie&theme=github_dark" />
 </a>
 <a href="https://github.com/EthanYJLee/Hoping_Springboot_MyBatis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Springboot_MyBatis&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EthanYJLee&repo=Hoping_Springboot_MyBatis&theme=github_dark" />
 </a>
 
 </div>
