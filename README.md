@@ -90,7 +90,7 @@
 # Github Stats
 <div align="center">
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanYJLee&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="EthanYJLee's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&hide=jupyter%20notebook&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EthanYJLee&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="EthanYJLee's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYJLee&hide=jupyter%20notebook&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
