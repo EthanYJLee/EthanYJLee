@@ -87,6 +87,7 @@
 </div> 
 -->
 
+<!--
 # Github Stats
 <div align="center">
 
@@ -94,6 +95,8 @@
 | ------------- | ------------- |
 
 </div>
+
+-->
 
 # Project Repositories
 
