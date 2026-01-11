@@ -97,7 +97,7 @@
 </div>
 
 -->
-
+<!--
 # Project Repositories
 
 <div align="center">
@@ -131,7 +131,7 @@
 </a>
 
 </div>
-
+-->
 
 
 <h1 align="left">Certifications</h1>
