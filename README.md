@@ -140,18 +140,18 @@
 | ----- | ----- | ----- | ----- | ----- |
 | 2025.11 | AICE: AI Certificate for Everyone | Associate | KT & The Korea Economic Daily | Republic of Korea |
 | 2025.08 | TOEIC | 890 | ETS | The United States of America
-| 2025.06 | 정보처리기사 (Engineer Information Processing) | | Human Resources Development Service of Korea | Republic of Korea |
-| 2025.04 | SQL개발자 (SQLD: Structured Query Language Developer) | | K-Data | Republic of Korea |
-| 2023.03 | 데이터분석준전문가 (ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
-| 2022.03 | TESAT (Test of Economic Sense And Thinking) | 2 | The Korea Economic Daily | Republic of Korea |
-| 2022.02 | 투자자산운용사 (Certified Investment Manager) | | KOFIA | Republic of Korea |
-| 2016.12 | 정보처리기능사 (Craftsman Information Processing) | | HRD Korea | Republic of Korea |
+| 2025.06 | 정보처리기사(Engineer Information Processing) | | Human Resources Development Service of Korea | Republic of Korea |
+| 2025.04 | SQL개발자(SQLD: Structured Query Language Developer) | | K-Data | Republic of Korea |
+| 2023.03 | 데이터분석준전문가(ADsP: Advanced Data Analytics Semi-Professional) | | K-Data | Republic of Korea |
+| 2022.03 | TESAT(Test of Economic Sense And Thinking) | 2 | The Korea Economic Daily | Republic of Korea |
+| 2022.02 | 투자자산운용사(Certified Investment Manager) | | KOFIA | Republic of Korea |
+| 2016.12 | 프로그래밍기능사(Craftsman Programming) | | HRD Korea | Republic of Korea |
 
 <h1 align="left">Education</h1>
 
 | | Program | Place | Location |
 | -------- | ------ | ---- | ---- |
-| 2025.08 - 2025.12 | INISW (Intelligence Information SW Academy) | Korea University | Seoul, Korea |
+| 2025.08 - 2025.12 | INISW(Intelligence Information SW Academy) | Korea University | Seoul, Korea |
 | 2022.09 - 2023.03 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
 | 2014.03 - 2022.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
 | 2013.03 - 2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
