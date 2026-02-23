@@ -191,7 +191,7 @@
 | | Program | Place | Location |
 | -------- | ------ | ---- | ---- |
 | 2025.08 - 2025.12 | INISW(Intelligence Information SW Academy) | Korea University | Seoul, Korea |
-| 2022.09 - 2023.03 | Bigdata Analysis & Recommendation System Developer Program | TJ Academy | Seoul, Korea |
+| 2022.09 - 2023.03 | Bigdata Analysis & Recommendation System Developer Program(K-Digital Training) | TJ Academy | Seoul, Korea |
 | 2014.03 - 2022.02 | Bachelor of Hospitality and Tourism Management | Sejong University | Seoul, Korea |
 | 2013.03 - 2014.02 | Secondary School | Seoul Sejong High School | Seoul, Korea |
 | 2010.12 - 2012.12 | Secondary School | The British School of Beijing | Beijing, China |
