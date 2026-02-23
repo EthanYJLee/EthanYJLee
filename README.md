@@ -21,7 +21,7 @@
   </tbody>
 </table>
             
-<div align=center><h1>🚀 TECH STACKS</h1></div>
+<div align=center><h1>TECH STACKS</h1></div>
 
 <!-- ======================= Languages ======================= -->
 <div align=center><h3>Languages</h3></div>
