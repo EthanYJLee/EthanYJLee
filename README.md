@@ -139,6 +139,7 @@
 | | Title | Level | Organization | Region |
 | ----- | ----- | ----- | ----- | ----- |
 | 2025.11 | AICE: AI Certificate for Everyone | Associate | KT & The Korea Economic Daily | Republic of Korea |
+| 2025.08 | JLPT | N3 | The Japan Foundation / Japan Educational Exchanges and Services | Japan |
 | 2025.08 | TOEIC | 890 | ETS | The United States of America
 | 2025.06 | 정보처리기사(Engineer Information Processing) | | Human Resources Development Service of Korea | Republic of Korea |
 | 2025.04 | SQL개발자(SQLD: Structured Query Language Developer) | | K-Data | Republic of Korea |
