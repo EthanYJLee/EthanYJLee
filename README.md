@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Meteor-222222?style=for-the-badge&logo=meteor&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-232F3E?style=for-the-badge&logoColor=white">
 </div>
 
 <br>
